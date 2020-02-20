@@ -1,0 +1,7 @@
+E:\BonAppetit\BonAppetit\BonAppetit\bin\Debug\BonAppetit.exe.config
+E:\BonAppetit\BonAppetit\BonAppetit\bin\Debug\BonAppetit.exe
+E:\BonAppetit\BonAppetit\BonAppetit\bin\Debug\BonAppetit.pdb
+E:\BonAppetit\BonAppetit\BonAppetit\obj\Debug\BonAppetit.csprojAssemblyReference.cache
+E:\BonAppetit\BonAppetit\BonAppetit\obj\Debug\BonAppetit.csproj.CoreCompileInputs.cache
+E:\BonAppetit\BonAppetit\BonAppetit\obj\Debug\BonAppetit.exe
+E:\BonAppetit\BonAppetit\BonAppetit\obj\Debug\BonAppetit.pdb
